@@ -27,12 +27,14 @@
 #         print(num)
 
 # 4) Whoa. That Sucker's Huge - Add odd integers from 0 to 500,000, and print the final sum.
+oddnum = 0
 
 for odd in range(0,500000):
     if odd % 2 == 1:
-        print(all)
+        oddnum = oddnum + odd
 
-all = sum(odd, 500000)
+print(oddnum)
+
     
 # def combo = sum(odd)---> idk how to do it but try making fxn, do definition, then print definition
 
