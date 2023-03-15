@@ -68,7 +68,6 @@ iterateDictionary(students)
 
 def iterateDictionary2(first_name, students):
     for all in students:
-        # for first_name in all:
             print(all[first_name])
 
 # iterateDictionary2('first_name', students)
