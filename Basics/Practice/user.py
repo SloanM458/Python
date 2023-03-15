@@ -60,6 +60,7 @@ Abby.enroll()
 Abby.spend_points(200, 80)
 
 Sam.display_info()
+Abby.display_info()
 
 https://login.codingdojo.com/m/506/12458/87325
 
